@@ -1,0 +1,12 @@
+[
+    { "id": 1, "pname": "headset",  "unitprice": 2000, "discount":5, "bname": "sony", "category":1  },
+    { "id": 2, "pname": "pendrive",  "unitprice": 1000, "discount":5, "bname": "sony", "category":1  },
+    { "id": 3, "pname": "apple",  "unitprice": 20, "discount":2, "bname": "fruits", "category":2  },
+    { "id": 4, "pname": "sugar",  "unitprice": 40, "discount":5, "bname": "grocery", "category":3  },
+    { "id": 5, "pname": "dall",  "unitprice": 100, "discount":5, "bname": "grocery", "category":3  },
+    { "id": 6, "pname": "butter biscuits",  "unitprice": 20, "discount":5, "bname": "britania", "category":5  },
+    { "id": 7, "pname": "orange",  "unitprice": 20, "discount":5, "bname": "fruits", "category":2  },
+    { "id": 8, "pname": "choclate",  "unitprice": 10, "discount":5, "bname": "diary milk", "category":6  },
+    { "id": 9, "pname": "figgy",  "unitprice": 30, "discount":2, "bname": "fruits", "category":2  }
+    
+]
